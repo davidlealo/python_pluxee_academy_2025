@@ -2,6 +2,16 @@
 
 Repositorio oficial para el curso de Python Pluxee Academy 2025.
 
+# Tareas
+
+# Tarea primera clase
+
+Enviar al profesor david@innovacien.org un programa en Python que te presente.
+**DEBE TENER**
+
+1. Variables que al ejecutar me permita conocer a la persona
+2. Incluya información personal, del emprendimiento y otra cosa que usted encuentre relevante
+
 ## Descripción
 
 Este repositorio contiene materiales, ejemplos de código, ejercicios y proyectos relacionados con el curso Python Pluxee Academy 2025.
