@@ -16,6 +16,9 @@ Enviar al profesor david@innovacien.org un programa en Python que te presente.
 
 1. Clase 01 [Video primera clase](https://youtu.be/1CmAp-vaj-c?si=fHt8UIMb0g58zq7Z)
 
+[![Mira el video en YouTube](https://img.youtube.com/vi/1CmAp-vaj-c/0.jpg)](https://youtu.be/1CmAp-vaj-c?si=fHt8UIMb0g58zq7Z)
+
+
 ## Descripción
 
 Este repositorio contiene materiales, ejemplos de código, ejercicios y proyectos relacionados con el curso Python Pluxee Academy 2025.
