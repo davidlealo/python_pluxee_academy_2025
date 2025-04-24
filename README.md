@@ -12,6 +12,10 @@ Enviar al profesor david@innovacien.org un programa en Python que te presente.
 1. Variables que al ejecutar me permita conocer a la persona
 2. Incluya información personal, del emprendimiento y otra cosa que usted encuentre relevante
 
+## Video de las clases
+
+1. Clase 01 [https://youtu.be/1CmAp-vaj-c?si=fHt8UIMb0g58zq7Z](Video primera clase)
+
 ## Descripción
 
 Este repositorio contiene materiales, ejemplos de código, ejercicios y proyectos relacionados con el curso Python Pluxee Academy 2025.
