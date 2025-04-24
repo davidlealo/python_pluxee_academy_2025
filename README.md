@@ -14,7 +14,7 @@ Enviar al profesor david@innovacien.org un programa en Python que te presente.
 
 ## Video de las clases
 
-1. Clase 01 [https://youtu.be/1CmAp-vaj-c?si=fHt8UIMb0g58zq7Z](Video primera clase)
+1. Clase 01 [Video primera clase](https://youtu.be/1CmAp-vaj-c?si=fHt8UIMb0g58zq7Z)
 
 ## Descripción
 
