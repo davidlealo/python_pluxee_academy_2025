@@ -12,12 +12,50 @@ Enviar al profesor david@innovacien.org un programa en Python que te presente.
 1. Variables que al ejecutar me permita conocer a la persona
 2. Incluya información personal, del emprendimiento y otra cosa que usted encuentre relevante
 
+### Tarea segunda clase 
+
+¡Bienvenidos al simulador de cajero automático!
+
+Por favor, introduzca su número de cuenta para continuar: [input de número de cuenta]
+
+Estimado estudiante, este cajero automático es capaz de realizar diferentes operaciones. Por favor, seleccione la opción deseada:
+
+1. Consultar saldo
+2. Retirar dinero
+3. Depositar dinero
+4. Transferir dinero a otra cuenta
+
+Por favor, ingrese el número correspondiente a la opción elegida: [input de opción]
+
+A continuación, se le solicitarán algunos datos adicionales según la opción seleccionada.
+
+1. Consultar saldo:
+   ¡Su saldo actual es de $5000! ¡Gracias por consultar!
+
+2. Retirar dinero:
+   Por favor, ingrese la cantidad a retirar: [input de cantidad]
+   ¡Retiro exitoso! Ha retirado $1000. Su saldo actual es de $4000.
+
+3. Depositar dinero:
+   Por favor, ingrese la cantidad a depositar: [input de cantidad]
+   ¡Depósito exitoso! Ha depositado $2000. Su saldo actual es de $7000.
+
+4. Transferir dinero a otra cuenta:
+   Por favor, ingrese el número de cuenta de destino: [input de número de cuenta de destino]
+   Por favor, ingrese la cantidad a transferir: [input de cantidad]
+   ¡Transferencia exitosa! Ha transferido $3000 a la cuenta 12345678.
+
+¡Gracias por utilizar nuestro simulador de cajero automático! Si desea realizar otra operación, puede seleccionar una nueva opción. En caso contrario, puede finalizar la transacción.
+
 ## Video de las clases
 
 1. Clase 01 [Video primera clase](https://youtu.be/1CmAp-vaj-c?si=fHt8UIMb0g58zq7Z)
 
 [![Mira el video en YouTube](https://img.youtube.com/vi/1CmAp-vaj-c/0.jpg)](https://youtu.be/1CmAp-vaj-c?si=fHt8UIMb0g58zq7Z)
 
+2. Clase 02 [Video segunda clase](https://youtu.be/HzssETg70RQ?si=b2Vo3lJbeCxnwR-x)
+
+[![Mira el video en YouTube](https://img.youtube.com/vi/HzssETg70RQ/0.jpg)](https://youtu.be/HzssETg70RQ?si=b2Vo3lJbeCxnwR-x)
 
 ## Descripción
 
