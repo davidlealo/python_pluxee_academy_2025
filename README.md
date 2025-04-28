@@ -47,6 +47,11 @@ A continuación, se le solicitarán algunos datos adicionales según la opción 
 
 ¡Gracias por utilizar nuestro simulador de cajero automático! Si desea realizar otra operación, puede seleccionar una nueva opción. En caso contrario, puede finalizar la transacción.
 
+### Tarea tercera clase 
+
+Crear una función para crear un perfil de usuario y enviar al correo david@innovacien.org 
+
+
 ## Video de las clases
 
 1. Clase 01 [Video primera clase](https://youtu.be/1CmAp-vaj-c?si=fHt8UIMb0g58zq7Z)
