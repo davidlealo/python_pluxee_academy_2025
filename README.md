@@ -102,4 +102,8 @@ pip install -r requirements.txt
 
 ## Contacto
 
-Para cualquier duda o consulta sobre el curso, contactar mediante los canales oficiales de Pluxee Academy.
+Para preguntas o comentarios, por favor contacta a David Leal Olivares:
+
+- [GitHub](https://github.com/davidlealo)
+- [LinkedIn](https://www.linkedin.com/in/davidlealo/)
+- [Instagram](https://www.instagram.com/davidlealo/)
