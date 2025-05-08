@@ -66,6 +66,10 @@ Crear una función para crear un perfil de usuario y enviar al correo david@inno
 
 [![Mira el video en YouTube](https://img.youtube.com/vi/3IO5YXCqKeM/0.jpg)](https://youtu.be/3IO5YXCqKeM?si=AVar1Om1TATWAW8p)
 
+4. Clase 04 [Video cuarta clase](https://youtu.be/EZgECu31RoE?si=moUmCYoILi59rZ2I)
+
+[![Mira el video en YouTube](https://img.youtube.com/vi/EZgECu31RoE/0.jpg)](https://youtu.be/EZgECu31RoE?si=moUmCYoILi59rZ2I)
+
 ## Descripción
 
 Este repositorio contiene materiales, ejemplos de código, ejercicios y proyectos relacionados con el curso Python Pluxee Academy 2025.
