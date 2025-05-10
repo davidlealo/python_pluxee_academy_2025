@@ -70,9 +70,9 @@ Crear una función para crear un perfil de usuario y enviar al correo david@inno
 
 [![Mira el video en YouTube](https://img.youtube.com/vi/EZgECu31RoE/0.jpg)](https://youtu.be/EZgECu31RoE?si=moUmCYoILi59rZ2I)
 
-5. Clase 05 [Video quinta clase](https://youtu.be/EZgECu31RoE?si=moUmCYoILi59rZ2I)
+5. Clase 05 [Video quinta clase](https://youtu.be/skNzPwkRP0M?si=MHD9_48ZxQW_DkeP)
 
-[![Mira el video en YouTube](https://img.youtube.com/vi/EZgECu31RoE/0.jpg)](https://youtu.be/EZgECu31RoE?si=moUmCYoILi59rZ2I)
+[![Mira el video en YouTube](https://img.youtube.com/vi/skNzPwkRP0M/0.jpg)](https://youtu.be/skNzPwkRP0M?si=MHD9_48ZxQW_DkeP)
 
 ## Descripción
 
