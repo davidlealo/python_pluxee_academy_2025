@@ -2,6 +2,8 @@
 
 Repositorio oficial para el curso de Python Pluxee Academy 2025.
 
+![Resumen del curso](image.png)
+
 # Tareas
 
 ### Tarea primera clase 
