@@ -51,6 +51,9 @@ A continuación, se le solicitarán algunos datos adicionales según la opción 
 
 Crear una función para crear un perfil de usuario y enviar al correo david@innovacien.org 
 
+### TAREA FINAL
+Crear un caso de uso para tu emprendimiento (real o inventado) de lo aprendido en clases y enviar al correo.
+
 
 ## Video de las clases
 
@@ -73,6 +76,10 @@ Crear una función para crear un perfil de usuario y enviar al correo david@inno
 5. Clase 05 [Video quinta clase](https://youtu.be/skNzPwkRP0M?si=MHD9_48ZxQW_DkeP)
 
 [![Mira el video en YouTube](https://img.youtube.com/vi/skNzPwkRP0M/0.jpg)](https://youtu.be/skNzPwkRP0M?si=MHD9_48ZxQW_DkeP)
+
+6. Clase 06 [Video sexta clase](https://youtu.be/-3EgIGr76a8?si=30huMmfgo4VphvtG)
+
+[![Mira el video en YouTube](https://img.youtube.com/vi/-3EgIGr76a8/0.jpg)](https://youtu.be/-3EgIGr76a8?si=30huMmfgo4VphvtG)
 
 ## Descripción
 
