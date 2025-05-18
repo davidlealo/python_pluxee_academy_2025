@@ -87,18 +87,6 @@ Crear un caso de uso para tu emprendimiento (real o inventado) de lo aprendido e
 
 Este repositorio contiene materiales, ejemplos de código, ejercicios y proyectos relacionados con el curso Python Pluxee Academy 2025.
 
-## Estructura del Repositorio
-
-- `/ejercicios/`: Ejercicios prácticos para cada sesión
-- `/proyectos/`: Proyectos más extensos para aplicar los conocimientos
-- `/recursos/`: Material adicional y documentación
-- `/notebooks/`: Jupyter notebooks con ejemplos y explicaciones
-
-## Requisitos
-
-- Python 3.9 o superior
-- Jupyter Notebook/Lab (para los notebooks interactivos)
-- Otras dependencias se especificarán en requirements.txt
 
 ## Cómo Empezar
 
